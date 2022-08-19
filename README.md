@@ -45,14 +45,9 @@
 #Advanced Code On Snack
 #React-Native
 #React Native
-#Whitehat-Jr
-#Whitehat Jr
-#WhiteHat-Jr
-#WhiteHat Jr
 #Online-Coding-Classes
 #App-Made-By-Child
 #App Made By Child
-#Create-Like-A-Child
 #Create Like A Child
 
 An App that reminds you about your previous transactions on money such lending or borrowing of money and also calculates the simple interest and the amount to be given Back in just a click !
